@@ -1,0 +1,6 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/Thream/website
+[submodule "api"]
+	path = api
+	url = https://github.com/Thream/api
